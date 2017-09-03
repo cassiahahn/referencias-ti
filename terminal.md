@@ -11,3 +11,9 @@
 * **mkdir** - cria um diretorio
 	* **-p** - cria um diretorio e subdiretorios (ex: mkdir -p a/b/c)
 * **rmdir** - exclui um diretorio vazio
+* **Control + C** - interrompe o programa que está sendo executado
+* **exit** - encerra a sessao atual
+* **cat** - mostra o conteúdo de um ou mais arquivo
+* **dif** - mostra a diferença entre dois arquivos
+* **history** - mostra todos os comandos anteriores realizados
+* **wc** - mostra detalhes de um arquivo texto
